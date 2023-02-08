@@ -19,7 +19,7 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 
 <br>
 
-![Alt Image text](/assetes/Assignment1.png?raw=true "Optional Title")
+![Alt Image text](/assets/Assignment1.png?raw=true "Optional Title")
 
 ## 📌 My process
 
