@@ -19,20 +19,19 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 
 <br>
 
-![Screenshot](./assets/Assignment1.png?raw=true "Template Screenshot")
+![imh](./assets/Assignment1.png/ "FINAL OUTPUT")
 
 ## 📌 My process
 
 - I joined a **Full Stack web development** course by **PWSKILLS**.<a href="https://pwskills.com/"> **Check🚀 (Not Sponsered)**</a>
 - It took me about **2 hours** to complete this project.
-- As I have done my previous 4 assignments but it took me more time than previous as I have to research about `transform: rotate(180deg);` property.
+- This my first Assignment project.
 
 ## 📌 What I Learn
 
-👉 Learn about `transform: rotate(180deg);` property.  
-👉 Learn about `overflow` property of CSS.  
-👉 How to place images in proper places using positions.  
-👉 Achieve some responsiveness using FlexBox.
+👉 Learn about how to build project.
+👉 Learn more about `flex` property of CSS.  
+
 
 ## 📬 Connect With Me
 
