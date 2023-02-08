@@ -19,13 +19,13 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 
 <br>
 
-![imh](./assets/Assignment1.png/ "FINAL OUTPUT")
+![Alt Image text](/assetes/Assignment1.png?raw=true "Optional Title")
 
 ## 📌 My process
 
 - I joined a **Full Stack web development** course by **PWSKILLS**.<a href="https://pwskills.com/"> **Check🚀 (Not Sponsered)**</a>
 - It took me about **2 hours** to complete this project.
-- This my first Assignment project.
+- This is my first Assignment project.
 
 ## 📌 What I Learn
 
