@@ -4,7 +4,7 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://chiragsolanki.netlify.app/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://crsproject1.netlify.app/">**Visit Now** 🚀</a>
 
 <br>
 
